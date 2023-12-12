@@ -1,0 +1,12 @@
+
+.tab {
+    background: linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91%, rgba(74, 47, 189, 0.5) 111.58%);
+    border: 1px solid rgba(125, 255, 255, 0.6);
+    color: black;
+    font-weight: 600;
+}
+.react-tabs__tab--selected {
+    background: gray;
+    font-weight: 600;
+    color: white;
+}

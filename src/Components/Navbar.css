@@ -1,0 +1,7 @@
+.navbarText .text-metal-600 {
+    color: white;
+}
+
+.navbarText .text-metal-600:hover {
+    color: pink;
+}
